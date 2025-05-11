@@ -6,7 +6,7 @@ I'm a Computer Science graduate passionate about building software that solves r
 
 ## 💡 What I'm Building
 
-- 🧾 [**TrackMyBills**](https://github.com/PatientoTyaga/TrackMyBills)  (In Progress)
+- 🧾 [**TrackMyBills**](https://github.com/PatientoTyaga/TrackMyBills)  (Completed)
   A smart bill and subscription tracker built with **Next.js** and **Supabase**. Features real-time syncing, upcoming payment reminders, and a sleek dashboard to stay on top of your finances.
 
 - 💪 **GoBeyond** (Coming Soon)  
