@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Patient Ndayizeye
 
-I'm a Computer Science graduate passionate about building software that solves real-life problems. I focus on creating tools that empower people, from personal finance apps to AI-driven educational platforms.
-
+I'm a Computer Science graduate passionate about building software that solves real-life problems. I focus on creating tools that empower people—currently through productivity and organization apps, with plans to explore AI-driven educational platforms in the future.
 ---
 
 ## 💡 What I'm Building
