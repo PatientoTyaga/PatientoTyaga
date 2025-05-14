@@ -41,12 +41,12 @@ This project is an exercise in building production-grade mobile applications, fo
 
 ---
 
-## ✨ Goals
+### ✨ Goals
 
 - Build tech that simplifies life for people in Burundi and beyond 🌍  
 - Create self-sustaining income from impactful software projects  
-- Keep learning and push boundaries every day 🚀
-- Become the best engineer i can ever be
+- Keep learning and push boundaries every day 🚀  
+- Become the best engineer I can possibly be 💻🌱
 
 ---
 
