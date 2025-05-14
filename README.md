@@ -9,11 +9,16 @@ I'm a Computer Science graduate passionate about building software that solves r
 - 🧾 [**TrackMyBills**](https://github.com/PatientoTyaga/TrackMyBills)  (Completed)
   A smart bill and subscription tracker built with **Next.js** and **Supabase**. Features real-time syncing, upcoming payment reminders, and a sleek dashboard to stay on top of your finances.
 
-- 💪 **GoBeyond** (Coming Soon)  
-  A workout planner app that motivates users to push beyond limits. Designed with customization, scheduling, and progress tracking in mind.
+### 🚀 TrackMyBills Mobile (Up Next)
 
-- 📺 **AI History Video Generator** (Coming soon)  
-  A tool that pulls historical data, generates narrated scripts using AI, and turns them into animated YouTube videos.
+An advanced native mobile version of TrackMyBills is in development. This version will go beyond the MVP, incorporating:
+
+- **React Native with Expo** for cross-platform mobile support  
+- **AWS services** for scalable backend features like push notifications, file storage (S3), and Lambda functions  
+- **Real-world system design principles**, including caching, load balancing, and modular architecture  
+- **Offline support** and background syncing for reliability  
+
+This project is an exercise in building production-grade mobile applications, focusing on performance, scalability, and a seamless user experience.
 
 ---
 
