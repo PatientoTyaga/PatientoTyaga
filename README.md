@@ -31,11 +31,13 @@ This project is an exercise in building production-grade mobile applications, fo
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
-- Supabase real-time subscriptions
-- AI integration in video content
-- Automating workflows with serverless functions
+- Building scalable backend systems with **AWS** (Lambda, S3, Cognito, DynamoDB)
+- Applying **system design principles** for real-world mobile app architecture
+- Developing cross-platform apps using **React Native with Expo**
+- Implementing **offline-first strategies** and background syncing
+- Automating tasks and reminders using **serverless functions**
 
 ---
 
@@ -44,6 +46,7 @@ This project is an exercise in building production-grade mobile applications, fo
 - Build tech that simplifies life for people in Burundi and beyond 🌍  
 - Create self-sustaining income from impactful software projects  
 - Keep learning and push boundaries every day 🚀
+- Become the best engineer i can ever be
 
 ---
 
